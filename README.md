@@ -12,6 +12,9 @@
 
 #### This data analysis practical aims to provide insights into the sales performance of a retail_sales_dataset for the past year. By analysing various aspects of the sales data, we seek to make data-driven recommendations, and gain a deeper understanding of the company's performance. 
 
+![Dashboard](retail_sales_Q1.png)
+![Uploading retail_sales_Q1.png…]()
+
 ### Data Source
 
 Sales Data: The primary dataset used for this analysis is the "retail_sales_dataset.csv" file, containing detailed informaion about each sale made by the company.
@@ -32,9 +35,6 @@ FROM retail_sales_dataset;
 
 SELECT Transaction_ID, [date], Customer_ID
 FROM retail_sales_dataset;
-
-![Dashboard](retail_sales_Q1.png)
-![Uploading retail_sales_Q1.png…]()
 
 -- The above SQL query selects transactionid, date and customerid columns from the retail_sales_dataset table.
 -- It retreives every row but only the specified columns, which are transactionid, date and customerid.
