@@ -27,8 +27,6 @@ Sales Data: The primary dataset used for this analysis is the "retail_sales_data
 SELECT *
 FROM retail_sales_dataset;
 
-![Screenshot 2025-04-27 213333](https://github.com/user-attachments/assets/fe3dc3d0-64f7-4f5b-b112-50c74f5dd9f3)
-
 -- The above SQL query selects all columns from the retail_sales_dataset table, denoted by the asterisk (*).
 -- It retrieves every row and all associated columns from the retail_sales_dataset table.
 
