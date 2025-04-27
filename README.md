@@ -15,6 +15,30 @@
 ![Dashboard](retail_sales_Q1.png)
 ![Uploading retail_sales_Q1.png…]()
 
+![Dashboard](retail_sales_Q2.png)
+![Uploading retail_sales_Q2.png…]()
+
+![Dashboard](retail_sales_Q3.png)
+![Uploading retail_sales_Q3.png…]()
+
+![Dashboard](retail_sales_Q4.png)
+![Uploading retail_sales_Q4.png…]()
+
+![Dashboard](retail_sales_Q5.png)
+![Uploading retail_sales_Q5.png…]()
+
+![Dashboard](retail_sales_Q6.png)
+![Uploading retail_sales_Q6.png…]()
+
+![Dashboard](retail_sales_Q7.png)
+![Uploading retail_sales_Q7.png…]()
+
+![Dashboard](retail_sales_Q8.png)
+![Uploading retail_sales_Q8.png…]()
+
+![Dashboard](retail_sales_Q9.png)
+![Uploading retail_sales_Q9.png…]()
+
 ### Data Source
 
 Sales Data: The primary dataset used for this analysis is the "retail_sales_dataset.csv" file, containing detailed informaion about each sale made by the company.
