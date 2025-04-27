@@ -33,7 +33,7 @@ FROM retail_sales_dataset;
 SELECT Transaction_ID, [date], Customer_ID
 FROM retail_sales_dataset;
 
-![Dashboard](retail_sales_Q1.png...]()
+![Dashboard](retail_sales_Q1.png)
 ![Uploading retail_sales_Q1.png…]()
 
 -- The above SQL query selects transactionid, date and customerid columns from the retail_sales_dataset table.
