@@ -27,6 +27,8 @@ Sales Data: The primary dataset used for this analysis is the "retail_sales_data
 SELECT *
 FROM retail_sales_dataset;
 
+![Screenshot 2025-04-27 213333](https://github.com/user-attachments/assets/fe3dc3d0-64f7-4f5b-b112-50c74f5dd9f3)
+
 -- The above SQL query selects all columns from the retail_sales_dataset table, denoted by the asterisk (*).
 -- It retrieves every row and all associated columns from the retail_sales_dataset table.
 
@@ -66,6 +68,8 @@ WHERE Price_Per_Unit BETWEEN 100 AND 500;
 SELECT *
 FROM retail_sales_dataset
 WHERE Product_Category IN ('Beauty') OR Product_Category = 'Electronics';
+
+![Screenshot 2025-04-27 213333](https://github.com/user-attachments/assets/41b21d28-4646-450e-abe6-7cc83897bfb9)
 
 -- The above SQL query select all columns from the retail_sales_dataset table.
 -- It returns rows where product category is IN 'Beauy' OR product category is equals to 'Electronics'.
