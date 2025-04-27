@@ -13,31 +13,31 @@
 #### This data analysis practical aims to provide insights into the sales performance of a retail_sales_dataset for the past year. By analysing various aspects of the sales data, we seek to make data-driven recommendations, and gain a deeper understanding of the company's performance. 
 
 ![Dashboard](retail_sales_Q1.png)
-![Uploading retail_sales_Q1.png…]()
+[retail_sales_Q1.png…]()
 
 ![Dashboard](retail_sales_Q2.png)
-![Uploading retail_sales_Q2.png…]()
+[retail_sales_Q2.png…]()
 
 ![Dashboard](retail_sales_Q3.png)
-![Uploading retail_sales_Q3.png…]()
+[retail_sales_Q3.png…]()
 
 ![Dashboard](retail_sales_Q4.png)
-![Uploading retail_sales_Q4.png…]()
+[retail_sales_Q4.png…]()
 
 ![Dashboard](retail_sales_Q5.png)
-![Uploading retail_sales_Q5.png…]()
+[retail_sales_Q5.png…]()
 
 ![Dashboard](retail_sales_Q6.png)
-![Uploading retail_sales_Q6.png…]()
+[retail_sales_Q6.png…]()
 
 ![Dashboard](retail_sales_Q7.png)
-![Uploading retail_sales_Q7.png…]()
+[retail_sales_Q7.png…]()
 
 ![Dashboard](retail_sales_Q8.png)
-![Uploading retail_sales_Q8.png…]()
+[retail_sales_Q8.png…]()
 
 ![Dashboard](retail_sales_Q9.png)
-![Uploading retail_sales_Q9.png…]()
+[retail_sales_Q9.png…]()
 
 ### Data Source
 
