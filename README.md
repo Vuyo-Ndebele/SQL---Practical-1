@@ -13,31 +13,22 @@
 #### This data analysis practical aims to provide insights into the sales performance of a retail_sales_dataset for the past year. By analysing various aspects of the sales data, we seek to make data-driven recommendations, and gain a deeper understanding of the company's performance. 
 
 ![Dashboard](retail_sales_Q1.png)
-[retail_sales_Q1.png…]()
 
 ![Dashboard](retail_sales_Q2.png)
-[retail_sales_Q2.png…]()
 
 ![Dashboard](retail_sales_Q3.png)
-[retail_sales_Q3.png…]()
 
 ![Dashboard](retail_sales_Q4.png)
-[retail_sales_Q4.png…]()
 
 ![Dashboard](retail_sales_Q5.png)
-[retail_sales_Q5.png…]()
 
 ![Dashboard](retail_sales_Q6.png)
-[retail_sales_Q6.png…]()
 
 ![Dashboard](retail_sales_Q7.png)
-[retail_sales_Q7.png…]()
 
 ![Dashboard](retail_sales_Q8.png)
-[retail_sales_Q8.png…]()
 
 ![Dashboard](retail_sales_Q9.png)
-[retail_sales_Q9.png…]()
 
 ### Data Source
 
@@ -93,8 +84,6 @@ WHERE Price_Per_Unit BETWEEN 100 AND 500;
 SELECT *
 FROM retail_sales_dataset
 WHERE Product_Category IN ('Beauty') OR Product_Category = 'Electronics';
-
-![Screenshot 2025-04-27 213333](https://github.com/user-attachments/assets/41b21d28-4646-450e-abe6-7cc83897bfb9)
 
 -- The above SQL query select all columns from the retail_sales_dataset table.
 -- It returns rows where product category is IN 'Beauy' OR product category is equals to 'Electronics'.
