@@ -49,7 +49,7 @@ SELECT Transaction_ID, [date], Customer_ID
 FROM retail_sales_dataset;
 
 SELECT DISTINCT Product_Category
-FROM	retail_sales_dataset;
+FROM retail_sales_dataset;
 
 SELECT DISTINCT gender
 FROM retail_sales_dataset;
