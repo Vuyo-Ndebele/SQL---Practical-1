@@ -1,5 +1,5 @@
 ## SQL---Practical-1
-### Retail_Sales
+### Retail_Sales_Dataset
 
 ## Table of Contents
 
