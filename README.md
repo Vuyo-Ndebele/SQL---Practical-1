@@ -29,15 +29,18 @@
 ![Dashboard](retail_sales_Q8.png)
 
 ![Dashboard](retail_sales_Q9.png)
-!(Uploading retail_sales_Q9.png)
 
 ![Dashboard](retail_sales_11.png)
+!(Uploading retail_sales_11.png)
 
 ![Dashboard](retail_sales_12.png)
+!(Uploading retail_sales_12.png)
 
 ![Dashboard](retail_sales_13.png)
+!(Uploading retail_sales_13.png)
 
 ![Dashboard](retail_sales_14.png)
+!(Uploading retail_sales_14.png)
 ### Data Source
 
 Sales Data: The primary dataset used for this analysis is the "retail_sales_dataset.csv" file, containing detailed informaion about each sale made by the company.
