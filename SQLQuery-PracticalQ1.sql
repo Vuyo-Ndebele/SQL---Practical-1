@@ -109,7 +109,7 @@ SELECT COUNT(*) AS Total_Number_Of_Transactions
 FROM retail_sales_dataset;
 
 -- The above SQL query selects all columns and counts the total number of transactions 
--- from the retail_sales_dataset table and only returns the the total number of rows. 
+-- from the retail_sales_dataset table and only returns a row with total number of transactions. 
 
 -- Q11. Find the average Age of customers. 
 -- Expected Output: Average_Age
@@ -119,7 +119,7 @@ FROM retail_sales_dataset;
 
 -- The above SQL query selects only the age column and calculates
 -- the average age of customers from the retail_sales_dataset table.
--- It only returns a temporary column where the total average of age is equals to 41.
+-- It only returns a row where the total average of age is equals to 41.
 
 -- Q12. Find the total quantity of products sold. 
 -- Expected output: Total_Quantity
@@ -129,7 +129,7 @@ FROM retail_sales_dataset;
 
 -- The above SQL query selects only the quantity column and calculates
 -- the total quantity of products sold.
--- It only returns a temporary column where the total quantity sold is equals to 2514.
+-- It only returns a row where the total quantity sold is equals to 2514 and allocates it to the temporary column.
 
 -- Q13. Find the maximum Total Amount spent in a single transaction. 
 -- Expected output: Max_Total_Amount
@@ -138,7 +138,7 @@ SELECT MAX(Total_Amount) AS Maximum_Total_Amount
 FROM retail_sales_dataset;
 
 -- The above SQL query selects the total amount column and calculates the maximum total amount.
--- It returns the temporary column with the maximun total amount spent.
+-- It returns the row with the maximun total amount spenta and allocates it to the temporary column.
 
 -- Q14. Find the minimum Price per Unit in the dataset. 
 -- Expected output: Min_Price_per_Unit
@@ -147,7 +147,7 @@ SELECT MIN(Total_Amount) AS Minimum_Total_Amount
 FROM retail_sales_dataset;
 
 -- The above SQL query selects the total amount column and calculate the minimum total amount.
--- It returns the temporary column with the minimum total amount spent.
+-- It returns the row with the minimum total amount spent and allocates it to the temporary column.
 
 
 
